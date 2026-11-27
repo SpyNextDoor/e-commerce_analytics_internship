@@ -4,6 +4,7 @@
 # Files 
 *.csv
 *.xlsx
+*.pdf
 
 # Environment
 .env
